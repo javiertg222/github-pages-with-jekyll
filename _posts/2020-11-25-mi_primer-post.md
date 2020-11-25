@@ -1,2 +1,6 @@
+---
+title: "Mi Blog"
+date: 2020-11-25
+---
 Este es mi primer post...
 Aquí iré subiendo cosas....
